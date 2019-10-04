@@ -7,9 +7,18 @@
 <https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B8%D0%BD_%D0%9C%D0%BE%D0%BD%D1%80%D0%BE>
   [Мерлин Монро]
   [текст](https://marilynmonroe.com)
-  ---|:---:|---:
-  да| нет | не знаю |
-  да| нет | не знаю |
+
+  
+  
+  
+  | one | two | three |
+  | --- | --- | ----- |
+  |  1  |  2  |   3   |
+  
+  
+  
+  
+  
 
 
 
